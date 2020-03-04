@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[1],{10:function(t,e,n){"use strict";n.r(e);var i=function(){var t=this.$createElement;return(this._self._c||t)("div",[this._v("\n  这是关于页\n")])};i._withStripped=!0;var s=n(3),r=Object(s.a)({},i,[],!1,null,null,null);r.options.__file="src/views/About.vue";e.default=r.exports}}]);
+//# sourceMappingURL=1.0b5f9cabe532b94e426b.js.map
